@@ -20,6 +20,7 @@ The program reads a sample program, separates the input into lexemes and tokens,
 ## Language Used
 
 Java
+PROJECT IS LOCATED IN SRC FOLDER :)
 
 ## Grammar
 
